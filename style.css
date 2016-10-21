@@ -1,0 +1,108 @@
+.result {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    border: 1px;
+}
+.left {
+    position: absolute;
+    top: 30px;
+    left: 10px;
+}
+.right {
+    position: absolute;
+    top: 30px;
+    left: 40px;
+}
+.mod {
+    position: absolute;
+    top: 30px;
+    left: 70px;
+}
+.clear {
+    position: absolute;
+    top: 30px;
+    left: 100px;
+}
+.seven {
+    position: absolute;
+    top: 60px;
+    left: 10px;
+}
+.eight {
+    position: absolute;
+    top: 60px;
+    left: 40px;
+}
+.nine {
+    position: absolute;
+    top: 60px;
+    left: 70px;
+}
+.div {
+    position: absolute;
+    top: 60px;
+    left: 100px;
+}
+.four {
+    position: absolute;
+    top: 90px;
+    left: 10px;
+}
+.five {
+    position: absolute;
+    top: 90px;
+    left: 40px;
+}
+.six {
+    position: absolute;
+    top: 90px;
+    left: 70px;
+}
+.mul {
+    position: absolute;
+    top: 90px;
+    left: 100px;
+}
+.one {
+    position: absolute;
+    top: 120px;
+    left: 10px;
+
+}
+.two {
+    position: absolute;
+    top: 120px;
+    left: 40px;
+}
+.three {
+    position: absolute;
+    top: 120px;
+    left: 70px;
+}
+.sub {
+    position: absolute;
+    top: 120px;
+    left: 100px;
+}
+.zero {
+    position: absolute;
+    top: 150px;
+    left: 10px;
+}
+.decimal {
+    position: absolute;
+    top: 150px;
+    left: 40px;
+}
+.equal{
+    position: absolute;
+    top: 150px;
+    left: 70px;
+}
+.add {
+    position: absolute;
+    top: 150px;
+    left: 100px;
+}
+
